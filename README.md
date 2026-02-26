@@ -22,60 +22,60 @@ To perform Exploratory Data Analysis (EDA) on retail sales data and derive meani
 
 **🧹 Data Cleaning & Preprocessing**
 
-Removed missing and duplicate values
+- Removed missing and duplicate values
 
-Converted date-related columns into proper datetime format
+- Converted date-related columns into proper datetime format
 
-Extracted Year, Quarter, and Month for seasonal analysis
+- Extracted Year, Quarter, and Month for seasonal analysis
 
-Grouped and aggregated data using groupby()
+- Grouped and aggregated data using groupby()
 
-Handled categorical variables for better analysis
+- Handled categorical variables for better analysis
 
 **🔍 Exploratory Data Analysis (EDA)**
 
 **🌍 Regional Performance Analysis**
 
-Identified top-performing states based on revenue
+- Identified top-performing states based on revenue
 
-Compared zone-wise revenue contribution
+- Compared zone-wise revenue contribution
 
-Analyzed units sold across regions
+- Analyzed units sold across regions
 
 **📦 Category & Brand Analysis**
 
-Evaluated category-wise revenue and discounts
+- Evaluated category-wise revenue and discounts
 
-Compared Premium vs Regular brand performance
+- Compared Premium vs Regular brand performance
 
-Analyzed gender-based brand preference
+- Analyzed gender-based brand preference
 
 **📅 Time-Based Analysis**
 
-Analyzed monthly and quarterly revenue trends
+- Analyzed monthly and quarterly revenue trends
 
-Identified peak sales months and quarters
+- Identified peak sales months and quarters
 
-Compared year-wise sales event performance
+- Compared year-wise sales event performance
 
 **⚔️ Competition & Inventory Analysis**
 
-Examined competition intensity by category
+- Examined competition intensity by category
 
-Studied competition trend over years
+- Studied competition trend over years
 
-Analyzed impact of inventory pressure on sales
+- Analyzed impact of inventory pressure on sales
 
 **💡 Key Insights**
 
-Revenue is concentrated in specific states and zones.
+- Revenue is concentrated in specific states and zones.
 
-Certain product categories dominate sales and discounts.
+- Certain product categories dominate sales and discounts.
 
-Q4 and event periods generate higher revenue.
+- Q4 and event periods generate higher revenue.
 
-High competition intensity affects category performance.
+- High competition intensity affects category performance.
 
-Inventory pressure leads to strategic discount-driven sales growth.
+- Inventory pressure leads to strategic discount-driven sales growth.
 
-Clear gender-based brand preference trends observed.
+- Clear gender-based brand preference trends observed.
