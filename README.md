@@ -78,4 +78,10 @@ To perform Exploratory Data Analysis (EDA) on retail sales data and derive meani
 
 - Inventory pressure leads to strategic discount-driven sales growth.
 
+## **📸 Dashboard Preview**
+
+  <img width="1307" height="782" alt="image" src="https://github.com/user-attachments/assets/d4fbb5cf-6d96-4b26-a0e1-4aae5ca46ffb" />
+
+
+
 - Clear gender-based brand preference trends observed.
